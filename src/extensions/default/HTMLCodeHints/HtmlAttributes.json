@@ -141,7 +141,7 @@
     "href":               { "attribOption": [] },
     "hreflang":           { "attribOption": [] },
     "hspace":             { "attribOption": [] },
-    "http-equiv":         { "attribOption": ["content-type", "default-style", "refresh"] },
+    "http-equiv":         { "attribOption": ["content-type", "default-style", "refresh", "X-UA-Compatible"] },
     "icon":               { "attribOption": [] },
     "ismap":              { "attribOption": [], "type": "flag" },
     "keytype":            { "attribOption": ["dsa", "ec", "rsa"] },
